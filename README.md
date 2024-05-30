@@ -25,7 +25,7 @@ Inside of `/stats-cli`, there is a `README.md` explaining the final deliverable.
 
 Loads an existing model from disk (in the /prebuilt directory). 
 
-Example Usage: ```python3 load_model.py -m prebuilt/random_forest_model.pkl -d data/data_json -s results``
+Example Usage: `python3 load_model.py -m prebuilt/random_forest_model.pkl -d data/data_json -s results`
 
 Parameters: 
 -m, --model a prebuilt model, built and stored using the pickle python library 
@@ -36,7 +36,7 @@ model.py
 
 Builds new models according to programmer's specifications. 
 
-Example Usage: ```python3 model.py -p data/data_json -a -s prebuilt```
+Example Usage: `python3 model.py -p data/data_json -a -s prebuilt`
 
 Parameters: 
 -p, --path path to the folder containing json data files 
