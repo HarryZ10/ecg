@@ -1,6 +1,7 @@
 # ECG Triage Research
 
 Contributors: Toby Klauder, Jonah Gent, Harry Zhu, Olivia Barner
+
 Faculty Advisors: Jillian Darrow and Dr. Brian R. Snider, PhD
 
 ## About
